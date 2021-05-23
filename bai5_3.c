@@ -19,4 +19,5 @@ int main(){
 		printf("%d ", a[i]);
 	}
     return 0;
+	// idk what the heck am i doin right now
 }
